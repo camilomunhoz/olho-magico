@@ -1,4 +1,4 @@
-# Inteligência Imobiliária — Porto Alegre (RS)
+# Olho Mágico — Porto Alegre (RS)
 
 Plataforma de inteligência de mercado, análise espacial e scoring multicritério de imóveis residenciais (Venda e Aluguel) em Porto Alegre, integrando PostgreSQL/PostGIS, IA local via Ollama (modelo de livre escolha do usuário, com indicação de `qwen2.5:7b`), roteamento viário OSRM e visualização interativa com MapLibre GL.
 
